@@ -1,0 +1,10 @@
+{
+	"name": "Draw Chicken",
+	"short_name": "Draw Chicken",
+	"description": "assignment2",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "any",
+	"background_color": "#ffffff",
+	"icons": []
+}
